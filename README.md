@@ -8,13 +8,11 @@
 
 Ce projet est divisé en plusieurs branches correspondant à des modules spécifiques :
 
-- [`main`](../../tree/main) : Branche principale contenant la documentation et l’orientation du projet.
+- [`main`](../../tree/main) : Branche principale contenant la documentation, l’orientation du projet et Interface utilisateur.
 - [`Dashboard`](../../tree/Dashboard) : Interface interne destinée à notre équipe pour :
   - Suivre les statistiques
   - Visualiser les synergies détectées
   - Superviser le système
-- [`User-interface`](../../tree/User-interface) : Interface utilisateur grand public pour :
-  - L'inscription des industries et des investisseurs
 - [`AI-Model`](../../tree/AI-Model) : Module d’**intelligence artificielle** chargé de détecter automatiquement des opportunités de mutualisation.
 
 ---
